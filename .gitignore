@@ -2,9 +2,11 @@
 *.o
 *.out
 territorios
+war
 
 # Arquivos de teste
 teste_entrada.txt
+teste_war.txt
 
 # Arquivos temporários
 *.swp
