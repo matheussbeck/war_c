@@ -1,0 +1,16 @@
+# Arquivos compilados
+*.o
+*.out
+territorios
+
+# Arquivos de teste
+teste_entrada.txt
+
+# Arquivos temporários
+*.swp
+*.swo
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
